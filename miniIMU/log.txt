@@ -1,0 +1,20 @@
+2018-07-17 14:02:54   升失败:D:\我的文档\Project\JY925\上位机\miniIMU\MiniIMU\bin\Release\miniIMU\
+2018-07-17 14:02:55   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.rar]下载失败:远程服务器返回错误: (404) 未找到。
+2018-07-17 14:02:55   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.rar]下载失败
+2018-07-17 14:04:31   升失败:D:\我的文档\Project\JY925\上位机\miniIMU\MiniIMU\bin\Release\miniIMU\
+2018-07-17 14:04:32   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.rar]下载失败:远程服务器返回错误: (404) 未找到。
+2018-07-17 14:04:32   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.rar]下载失败
+2018-07-17 14:07:54   升失败:D:\我的文档\Project\JY925\上位机\miniIMU\MiniIMU\bin\Release\miniIMU\
+2018-12-07 10:18:09   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-07 10:18:15   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-07 10:18:23   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.config.rar]下载失败
+2018-12-07 10:19:33   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-07 10:19:35   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.config.rar]下载失败
+2018-12-07 10:32:06   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-07 10:32:08   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.config.rar]下载失败
+2018-12-07 10:32:40   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-07 10:32:44   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.config.rar]下载失败
+2018-12-25 10:11:38   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-25 10:11:45   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.config.rar]下载失败
+2018-12-25 10:13:04   升失败:E:\miniIMUV5.0\miniIMU\
+2018-12-25 10:13:06   [http://witmotion.cn/WTZN/Resources/63d4cabc-fc60-461e-ad55-919c6f82836b/MiniIMU.exe.config.rar]下载失败
